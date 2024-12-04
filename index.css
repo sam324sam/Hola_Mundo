@@ -1,0 +1,35 @@
+body {
+    background-color: #282c34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+span{
+    text-align: center;
+    font-size: 30px;
+    font-size: 4rem;
+    color: white;
+    margin: 0;
+    white-space: nowrap;
+    width: 15ch;
+    overflow: hidden;
+}
+
+.color1{
+    color: red;
+}
+.color2{
+    color: purple;
+}
+.color3{
+    color: green;
+}
+.color4{
+    color: blue;
+}
+.color5{
+    color: yellow;
+}
