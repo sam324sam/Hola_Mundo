@@ -2,6 +2,10 @@
 
 Este proyecto es una simple animación de texto que muestra "Hola Mundo" en colores cambiantes, desarrollada utilizando **JavaScript**, **HTML** y **CSS**. El texto se despliega de forma dinámica, con cada letra apareciendo en un color diferente.
 
+<div align="center">
+  <img src="Hola_Mundo.png" alt="Imagen del hola mundo" width="300">
+</div>
+
 ## Descripción
 
 - La animación muestra la frase "Hola Mundo" letra por letra.
