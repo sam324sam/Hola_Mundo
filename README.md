@@ -1,3 +1,4 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
 # Animación de Texto "Hola Mundo"
 
 Este proyecto es una simple animación de texto que muestra "Hola Mundo" en colores cambiantes, desarrollada utilizando **JavaScript**, **HTML** y **CSS**. El texto se despliega de forma dinámica, con cada letra apareciendo en un color diferente.
